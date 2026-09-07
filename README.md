@@ -9,11 +9,8 @@ This system is built around three major functional modules:
 * **Pantry & Recipe Management (CRUD):** Users can add, update, and manage their current pantry ingredients and create detailed recipes with specific dietary tags.
 * **Recipe Matching Engine (Data Processing):** The core algorithm cross-references the user's available ingredients with the recipe catalog to calculate match percentages and identify missing items.
 * **Meal Planner & Shopping List Generator (Reporting):** Users can assign recipes to specific days/meals, and the system aggregates all missing components into an exportable weekly shopping list.
+---
 
-## Technologies/Tools Used
-* Java (JDK 17 or higher)
-* Object-Oriented Programming (OOP) Principles
-* Git & GitHub for version control
 ## Technologies/Tools Used
 * Java (JDK 17 or higher)
 * Standard Java Collections Framework
