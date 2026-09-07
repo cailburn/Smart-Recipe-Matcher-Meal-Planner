@@ -1,4 +1,19 @@
 # Smart-Recipe-Matcher-Meal-Planner
+## Overview of the Project
+- The Smart Recipe Matcher & Meal Planner is a Java-based application designed to help users minimize household food waste and simplify their weekly meal prep. Often, people struggle to figure out what they can cook with the ingredients they already have in their pantry.
+- This system solves that problem by tracking available kitchen inventory and intelligently matching it against a catalog of recipes.
+- Furthermore, it allows users to schedule their matched meals onto a weekly calendar and automatically generates a consolidated grocery list for any missing ingredients. 
+---
+## Features
+This system is built around three major functional modules:
+* **Pantry & Recipe Management (CRUD):** Users can add, update, and manage their current pantry ingredients and create detailed recipes with specific dietary tags.
+* **Recipe Matching Engine (Data Processing):** The core algorithm cross-references the user's available ingredients with the recipe catalog to calculate match percentages and identify missing items.
+* **Meal Planner & Shopping List Generator (Reporting):** Users can assign recipes to specific days/meals, and the system aggregates all missing components into an exportable weekly shopping list.
+
+## Technologies/Tools Used
+* Java (JDK 17 or higher)
+* Object-Oriented Programming (OOP) Principles
+* Git & GitHub for version control
 ## Technologies/Tools Used
 * Java (JDK 17 or higher)
 * Standard Java Collections Framework
