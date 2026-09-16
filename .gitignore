@@ -1,0 +1,9 @@
+# Compiled class file
+*.class
+
+# Maven
+target/
+# IDE specific files
+.vscode/
+.idea/
+*.iml
